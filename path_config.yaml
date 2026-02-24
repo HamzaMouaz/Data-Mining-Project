@@ -1,0 +1,14 @@
+paths : 
+  first_dataset: "D:/2026 projects/DataMining-project/data/Dataset1.csv"
+  second_dataset: "D:/2026 projects/DataMining-project/data/Dataset2.csv"
+  third_dataset: "D:/2026 projects/DataMining-project/data/Dataset3.xlsx"
+
+intermediate_paths : 
+  first_intermediate: "D:/2026 projects/DataMining-project/artifacts/intermediate/1/train.csv"
+  second_intermediate: "D:/2026 projects/DataMining-project/artifacts/intermediate/2/data.csv"
+  third_intermediate: "D:/2026 projects/DataMining-project/artifacts/intermediate/3/data.csv"
+
+model_artifact : 
+  model_path: "D:/2026 projects/DataMining-project/artifacts/models/model.pkl"
+  preprocessor_path: "D:/2026 projects/DataMining-project/artifacts/preprocessors/preprocessor_first.pkl"
+  general_preprocessor_path: "D:/2026 projects/DataMining-project/artifacts/preprocessors/general_preprocessor.pkl"

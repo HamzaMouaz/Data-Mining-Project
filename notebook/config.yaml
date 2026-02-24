@@ -1,0 +1,4 @@
+paths : 
+  first_dataset: "D:/2026 projects/DataMining-project/data/Dataset1.csv"
+  second_dataset: "D:/2026 projects/DataMining-project/data/Dataset2.csv"
+  third_dataset: "D:/2026 projects/DataMining-project/data/Dataset3.xlsx"
