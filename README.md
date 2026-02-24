@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌱 Soil Fertility Prediction - Data Mining Project
 
 A comprehensive data mining project that predicts soil fertility levels using machine learning classification algorithms. This system analyzes 13 key soil parameters to determine fertility status, helping agricultural professionals make informed decisions about soil management.
@@ -416,3 +417,9 @@ This project is open source and available under the [MIT License](LICENSE).
 <p><strong>Built with Python • Scikit-learn • Streamlit • Poetry</strong></p>
 <p><em>Making soil fertility analysis accessible through data mining</em></p>
 </div>
+=======
+The files as well as the source code of this project are found in the "master" branch
+
+# AI-powered-information-retrieval-system
+I developed an AI-powered information retrieval system designed to efficiently search and extract relevant data from large datasets. The system leverages natural language processing (NLP) and machine learning algorithms to understand user queries, retrieve precise information, and provide accurate responses.
+>>>>>>> 7e8bcd5bba3ee5d7d125e81537f4a81a0a2e1ed0
